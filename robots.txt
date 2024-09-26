@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ginerumb.github.io/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/app/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/assets/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/css/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/data/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/includes/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/item/sitemap.ginerumb.gz
+Sitemap: https://ginerumb.github.io/src/sitemap.ginerumb.gz
